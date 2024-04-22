@@ -1,3 +1,4 @@
-# ete
+#E-Commerce-System
 e.commerce system 
-# About my first project on GitHub.
+# E-Commerce-System with GUI
+
